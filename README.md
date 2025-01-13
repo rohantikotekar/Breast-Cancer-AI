@@ -1,5 +1,5 @@
 # Anomaly Detection and Clustering Analysis of a Breast Cancer Dataset
-### This project showcases a robust data preprocessing and analysis pipeline combining Isolation Forest for anomaly detection and KMeans++ for clustering.
+### This project showcases a robust data preprocessing and analysis pipeline combining Isolation Forest for anomaly detection and KMeans++ for clustering. (Check last cell in the uploaded notebook)
 
 # Key Features:
 #### Anomaly Detection: Identified and filtered outliers using Isolation Forest with a contamination rate of 10%.
