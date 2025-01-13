@@ -12,5 +12,6 @@
 #### Python: Core programming language for the entire pipeline.
 #### Libraries: NumPy, Pandas, Scikit-learn, Matplotlib.
 
-# Results: Demonstrated the impact of anomaly removal on clustering performance with detailed visualizations and metrics.
+# Results: 
+#### Demonstrated the impact of anomaly removal on clustering performance with detailed visualizations and metrics.
 #### Achieved improved clustering outcomes through iterative data refinement.
