@@ -172,4 +172,4 @@ MIT License - see [LICENSE](https://www.google.com/search?q=LICENSE)
 
 **Built with ❤️ by [Rohan Tikotekar**](https://github.com/rohantikotekar)
 
-For questions: [LinkedIn](https://www.linkedin.com/in/rohantikotekar)
+For questions: [LinkedIn](https://www.linkedin.com/in/rohan-tikotekar)
